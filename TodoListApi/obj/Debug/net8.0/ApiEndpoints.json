@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "TodoListApi.Controllers.TodoListController",
+    "Method": "FetchAllListItems",
+    "RelativePath": "api/TodoList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoListApi.Controllers.TodoListController",
+    "Method": "AddItem",
+    "RelativePath": "api/TodoList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addItemRequestDto",
+        "Type": "TodoListApi.Models.DTO.AddItemRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
