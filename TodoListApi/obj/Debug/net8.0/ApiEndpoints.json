@@ -24,5 +24,26 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoListApi.Controllers.TodoListController",
+    "Method": "UpdateItem",
+    "RelativePath": "api/TodoList/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateItemRequestDto",
+        "Type": "TodoListApi.Models.DTO.UpdateItemRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

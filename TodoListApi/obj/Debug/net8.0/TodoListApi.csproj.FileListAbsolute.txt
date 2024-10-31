@@ -39,3 +39,4 @@ C:\Users\USER\source\repos\TodoListApi\TodoListApi\bin\Debug\net8.0\Microsoft.Ex
 C:\Users\USER\source\repos\TodoListApi\TodoListApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\Users\USER\source\repos\TodoListApi\TodoListApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\USER\source\repos\TodoListApi\TodoListApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\USER\source\repos\TodoListApi\TodoListApi\obj\Debug\net8.0\TodoListApi.sourcelink.json
